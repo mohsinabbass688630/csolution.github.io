@@ -544,30 +544,30 @@ header{
     position: absolute;
     bottom: 1.25rem;
     right: 340px;
-    background: url(./assets/images/arrow-white.svg) no-repeat center center transparent;
+    background: url(../images/arrow-white.svg) no-repeat center center transparent;
     height: 1.0625rem;
     width: 2.25rem;
 }
 
 .portfolio-grid .p1 {
-    background: url(./assets/images/portfolio-grid.png) no-repeat;
+    background: url(../images/portfolio-grid.png) no-repeat;
     background-size: cover !important;
     overflow: hidden;
 }
 
 .portfolio-grid1 {
-    background: url(./assets/images/eKleciaApp.png) no-repeat !important;
+    background: url(../images/eKleciaApp.png) no-repeat !important;
 }
 .portfolio-grid6 {
-    background: url(./assets/images/bfx-money.webp) no-repeat!important;
+    background: url(../images/bfx-money.webp) no-repeat!important;
 }
 
 .portfolio-grid4 {
-    background: url(./assets/images/car.jpg) no-repeat!important;
+    background: url(../images/car.jpg) no-repeat!important;
 }
 
 .portfolio-grid5 {
-    background: url(./assets/images/quem.png) no-repeat!important;
+    background: url(../images/quem.png) no-repeat!important;
 }
 
 .portfolio-grid .portfolio:hover .p-detail a::before {
@@ -612,7 +612,7 @@ header{
 /* start testimonials */
 .testimonials {
     padding: 100px 0;
-    background: url(./assets/images/map-background.png) no-repeat;
+    background: url(../images/map-background.png) no-repeat;
     background-size: cover;
 }
 
