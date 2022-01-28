@@ -207,7 +207,7 @@ header{
 @media(max-width: 812px) {
     .banner-bg {
         height: auto;
-        background: url(./assets/images/banner_without_icon.jpg) no-repeat;
+        background: url(../images/banner_without_icon.jpg) no-repeat;
         background-position: center;
     }
 
@@ -303,7 +303,7 @@ header{
 /* About Us Section styling Start */
 /* Services Styling Start */
 .services {
-    background: url(./assets/images/service-bg.png) no-repeat;
+    background: url(../images/service-bg.png) no-repeat;
     background-size: cover;
     padding: 100px 0;
 }
@@ -687,8 +687,8 @@ header{
     width: 42.1px;
     height: 51px;
     border-radius: 0px 6px 0 0;
-    -webkit-mask: url(./assets/images/bottom-angle-shape.svg);
-    -webkit-mask-box-image: url(./assets/images/bottom-angle-shape.svg);
+    -webkit-mask: url(../images/bottom-angle-shape.svg);
+    -webkit-mask-box-image: url(../images/bottom-angle-shape.svg);
     -webkit-mask-size: cover;
     background-color: #dedddd;
     z-index: 9;
